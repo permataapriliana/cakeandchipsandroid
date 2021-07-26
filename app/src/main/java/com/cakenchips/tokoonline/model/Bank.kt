@@ -1,8 +1,6 @@
 package com.cakenchips.tokoonline.model
 
-/**
- * Created by Tisto on 3/11/2021.
- */
+
 class Bank(
         var nama: String,
         var rekening: String,
