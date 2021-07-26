@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660594337994",
+    "project_id": "cake-and-chips",
+    "storage_bucket": "cake-and-chips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660594337994:android:2e806f04968a8f6197ec33",
+        "android_client_info": {
+          "package_name": "com.cakenchips.tokoonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660594337994-7iepugo8cgk4bq8d6h4ut96k45r6hdgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-UlpqjC3Sgnb9YrUmbV9hnyjDynmfI9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660594337994-7iepugo8cgk4bq8d6h4ut96k45r6hdgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
